@@ -1,1 +1,23 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn.lock
+package-lock.json
+
+# Env / runtime
+.env
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Logs / temp
+logs/
+tmp/
+
+# Nothing in data is ignored by default so the seed JSONs are committed.
+# If you prefer to ignore dynamic files, you can add patterns selectively, e.g.:
+# public/data/reveal_*.json
+# data/summaries/*.json
 
