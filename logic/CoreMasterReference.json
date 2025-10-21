@@ -893,7 +893,7 @@
         "logic_action": "Place face-down on field. If opponent plays a card next turn, deal 15 DMG and stun for 1 turn. Discard after activation.",
         "tags": "trap, stun, skip, face_down, trap_ready, flip_reveal, hidden",
         "card_animation": null,
-        "image": "068_Tripwire_Tactical.png",
+        "image": "068_TripWire_Tactical.png",
         "card_emoji": "\ud83e\udded"
     },
     {
