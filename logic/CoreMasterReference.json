@@ -1530,7 +1530,7 @@
         "logic_action": "Reveal entire enemy hand. Tagged as trap.",
         "tags": "trap, reveal_hand, intel, combo_trap, trap_ready, face_down, flip_reveal",
         "card_animation": "trap.gif",
-        "image": "117_AlarmTripwire_Trap.png",
+        "image": "117_AlarmTripWire_Trap.png",
         "card_emoji": "\ud83e\udde8"
     },
     {
