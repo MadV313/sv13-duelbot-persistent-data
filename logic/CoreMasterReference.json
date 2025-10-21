@@ -1639,7 +1639,7 @@
     },
     {
         "card_id": "126",
-        "name": "Lt. Col. Emil Bor\u00e9n",
+        "name": "Lt. Col. Emil Boren",
         "type": "Specialty",
         "rarity": "Legendary",
         "color": "Gold",
@@ -1647,7 +1647,7 @@
         "logic_action": null,
         "tags": null,
         "card_animation": null,
-        "image": "126_Lt.Col.EmilBor\u00e9n_Specialty.png",
+        "image": "126_Lt.Col.EmilBoren_Specialty.png",
         "card_emoji": "\u2728"
     },
     {
